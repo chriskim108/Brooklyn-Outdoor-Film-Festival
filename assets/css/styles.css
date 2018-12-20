@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-  box-shadow: 2px 2px 5px #3292a6;
+  box-shadow: 2px 2px 5px #000;
   opacity: 0.9;
   background: #fff;
 }
@@ -20,7 +20,7 @@ body {
 }
 
 #splashpage .primary-overlay {
-  background: rgba(50, 146, 166, 0.8);
+  background:#000;
   position: absolute;
   top: 0;
   left: 0;
